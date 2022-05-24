@@ -14,3 +14,5 @@ T, Blackbody Temperature
 𝑣_𝑒, 𝜏: Velocity stratification and optical depth of line 𝜏(𝑣)=𝜏𝑒^(−(𝑣_𝑟𝑒𝑓−𝑣)/𝑣_𝑒 )
 
 𝑂_𝑜𝑐𝑐: sets asymmetry between absorption and emission
+
+𝑒: eccentricity of photosphere, if fitting an ellipsoidal photosphere
