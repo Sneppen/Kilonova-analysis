@@ -1,4 +1,7 @@
-##Inclination attempt 2 with variable inclination
+##P Cygni 9 == Inclination attempt 2 with variable inclination
+##P Cygni 8 == Fixed Inclination with variable ellipticity
+##P Cygni 7 == Elliposidal along l.o.s (preliminary and wrong) but we can develop. 
+##P Cygni 5 == Spherical
 
 #!/usr/bin/env python
 # MIT License
@@ -116,12 +119,15 @@ def _calc_W(r, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel):
     W : float
         geometric dilution factor
     """
-    if ratio_vel > 1: 
-        ratio_vel2 = ratio_vel
-    if ratio_vel < 1: 
-        ratio_vel2 = 1/ratio_vel
+    #if ratio_vel > 1: 
+    #    ratio_vel2 = ratio_vel
+    #if ratio_vel < 1: 
+    #    ratio_vel2 = 1/ratio_vel
+    #return (np.float32(1) - np.sqrt(np.float32(1) - (vphot*t / r / ratio_vel2 )**2)) / 2
+
+    corr = min(1,vphot*t / r )
     
-    return (np.float32(1) - np.sqrt(np.float32(1) - (vphot*t / r / ratio_vel2 )**2)) / 2
+    return (np.float32(1) - np.sqrt(np.float32(1) - (corr)**2)) / 2
 
 @numba.njit
 def _calc_tau(r, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc):
@@ -609,7 +615,7 @@ class PcygniCalculator(object):
         
         #double integral
         #Fnu  = 4*integ.dblquad(self._Iemit, 0, pmax, lambda x: 0, lambda x: (pmax**2-x**2)**(1/2), args=(z, *self.args), epsabs=1)[0]
-        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(z, *self.args), epsabs=1e30)[0]
+        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(z, *self.args), epsabs=1e25)[0] #1e30 , epsabs=1e25
         return Fnu
 
     def _calc_line_profile_base(self, nu_min, nu_max, npoints=100,
