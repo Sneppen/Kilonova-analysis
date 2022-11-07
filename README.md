@@ -15,4 +15,6 @@ T, Blackbody Temperature
 
 𝑂_𝑜𝑐𝑐: sets asymmetry between absorption and emission
 
-𝑒: eccentricity of photosphere, if fitting an ellipsoidal photosphere
+ratio_vel: eccentricity of photosphere, if fitting an ellipsoidal photosphere
+
+Theta_inc: Inclination angle, if fitting an ellipsoidal photosphere
