@@ -47,15 +47,15 @@ from multiprocessing import Pool
 import multiprocessing
 
 spec = [
-    ('rmax', numba.float32), 
-    ('rmin', numba.float32), 
-    ('Ip', numba.float32), 
-    ('t', numba.float32), 
-    ('vdet_min', numba.float32), 
-    ('vdet_max', numba.float32), 
-    ('tauref', numba.float32), 
-    ('vref', numba.float32), 
-    ('ve', numba.float32), 
+    ('rmax', numba.float64), 
+    ('rmin', numba.float64), 
+    ('Ip', numba.float64), 
+    ('t', numba.float64), 
+    ('vdet_min', numba.float64), 
+    ('vdet_max', numba.float64), 
+    ('tauref', numba.float64), 
+    ('vref', numba.float64), 
+    ('ve', numba.float64), 
 ]
 
 def proxy(f):
@@ -123,12 +123,12 @@ def _calc_W(r, r_nu, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel):
     #    ratio_vel2 = ratio_vel
     #if ratio_vel < 1: 
     #    ratio_vel2 = 1/ratio_vel
-    #return (np.float32(1) - np.sqrt(np.float32(1) - (vphot*t / r / ratio_vel2 )**2)) / 2
+    #return (np.float64(1) - np.sqrt(np.float64(1) - (vphot*t / r / ratio_vel2 )**2)) / 2
 
     corr = min(1,vphot*t / r )
     #corr = r_nu/r
     
-    return (np.float32(1) - np.sqrt(np.float32(1) - (corr)**2)) / 2
+    return (np.float64(1) - np.sqrt(np.float64(1) - (corr)**2)) / 2
 
 @numba.njit
 def _calc_tau(r, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc):
@@ -160,7 +160,7 @@ def _calc_tau(r, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, t
     if v >= vdet_min and v <= vdet_max:
         return corr * tauref * np.exp( - v / ve)
     else:
-        return np.float32(1e-20)
+        return np.float64(1e-20)
 
 @numba.njit
 def _S(px, py, p, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel,theta_inc):
@@ -366,19 +366,19 @@ def _Iemit(px, py, delta, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_
     
     tau, S = tau_s(p, px, py, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc, delta)
     
-    return (_I(px, py, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * np.exp(-tau) + S * (np.float32(1) - np.exp(-tau)))
+    return (_I(px, py, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * np.exp(-tau) + S * (np.float64(1) - np.exp(-tau)))
  
     #if mode == "both" or mode == "abs":
-    #return (_I(px, py, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * np.exp(-tau) + _S(px, py, p, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * (np.float32(1) - np.exp(-tau)))
+    #return (_I(px, py, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * np.exp(-tau) + _S(px, py, p, z, vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc) * (np.float64(1) - np.exp(-tau)))
     
 @numba.cfunc(numba.f8(numba.i4,numba.types.CPointer(numba.f8)))
 def get_Iemit(n, ptr):
     temp = numba.carray(ptr, n)
 
-    vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc_inp = np.float32(temp[3]), np.float32(temp[4]), np.float32(temp[5]),\
-          np.float32(temp[6]), np.float32(temp[7]), np.float32(temp[8]), np.float32(temp[9]), np.float32(temp[10]), np.float32(temp[11])
+    vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc_inp = np.float64(temp[3]), np.float64(temp[4]), np.float64(temp[5]),\
+          np.float64(temp[6]), np.float64(temp[7]), np.float64(temp[8]), np.float64(temp[9]), np.float64(temp[10]), np.float64(temp[11])
     
-    return _Iemit(np.float32(temp[0]), np.float32(temp[1]), np.float32(temp[2]), vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc_inp)
+    return _Iemit(np.float64(temp[0]), np.float64(temp[1]), np.float64(temp[2]), vmax, vphot, t, vdet_min, vdet_max, tauref, ve, ratio_vel, theta_inc_inp)
     
     
     
@@ -638,7 +638,7 @@ class PcygniCalculator(object):
         
         #double integral
         #Fnu  = 4*integ.dblquad(self._Iemit, 0, pmax, lambda x: 0, lambda x: (pmax**2-x**2)**(1/2), args=(z, *self.args), epsabs=1)[0]
-        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(delta, *self.args), epsabs=1e25)[0] #1e30 , epsabs=1e25
+        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(delta, *self.args), epsabs=1)[0] #1e25 , epsabs=1e25
         return Fnu
 
     def _calc_line_profile_base(self, nu_min, nu_max, npoints=100,

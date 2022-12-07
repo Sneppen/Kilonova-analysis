@@ -615,7 +615,7 @@ class PcygniCalculator(object):
         
         #double integral
         #Fnu  = 4*integ.dblquad(self._Iemit, 0, pmax, lambda x: 0, lambda x: (pmax**2-x**2)**(1/2), args=(z, *self.args), epsabs=1)[0]
-        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(z, *self.args), epsabs=1e25)[0] #1e30 , epsabs=1e25
+        Fnu  = 2*integ.dblquad(self._Iemit, -pmax, pmax, lambda x: 0, lambda x: pmax, args=(z, *self.args), epsabs=1)[0] #1e25 , epsabs=1e25
         return Fnu
 
     def _calc_line_profile_base(self, nu_min, nu_max, npoints=100,
