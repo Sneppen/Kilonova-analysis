@@ -4,7 +4,7 @@ This folder contains the spectral modelling of the kilonova (KN) AT2017gfo prese
 
 Relatively simple models have proven quite succesfull in describing the observed properties of AT2017gfo. The continuum is well-modelled as a blackbody (see observational constraints in Sneppen et al (2023) "On the Blackbody Spectrum of Kilonovae", ApJ, 1955). Spectral perturbation from the blackbody (e.g. Absorption below 390 nm, P Cygni at 760 nm and 1 000 nm) follow from the strongest transitions of a light r-process atmosphere. These features are produced by abundant elements (r-process peak elements) positioned at leftmost part of the periodic table (due to their low partition functions - analogous to the Na, Mg, Ca lines in solar spectra or Ca lines in SNe). 
 
-
+The folder "sub-epoch-spectra" contain the re-reduced X-shooter epoch 1 spectrum of AT2017gfo. Here, the individual exposures have been reduced seperately to examine the short-timescale rapid evolution. For more information see Sneppen et al (2023), "Kilonova evolution — the rapid emergence of spectral features", in prep. 
 
 #### The parameters of the fit: 
 ##### Continuum Emission 
