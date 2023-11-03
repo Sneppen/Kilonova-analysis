@@ -2,7 +2,7 @@
 
 This folder contains the spectral modelling of the kilonova (KN) AT2017gfo presented in the paper, Sneppen et al (2023), "Spherical symmetry in the kilonova AT2017gfo/GW170817", Nature, 614.
 
-Relatively simple models have proven quite succesfull in describing the observed properties of AT2017gfo. The continuum is well-modelled as a blackbody (see observational constraints in Sneppen et al (2023) "On the Blackbody Spectrum of Kilonovae", ApJ, 1955). Spectral perturbation from the blackbody (e.g. Absorption below 390 nm, P Cygni at 760\,nm and 1$\mu$m) follow from the strongest transitions of a light r-process atmosphere. These features are produced by abundant elements (r-process peak elements) positioned at leftmost part of the periodic table (due to their low partition functions - analogous to the Na, Mg, Ca lines in solar spectra or Ca lines in SNe). 
+Relatively simple models have proven quite succesfull in describing the observed properties of AT2017gfo. The continuum is well-modelled as a blackbody (see observational constraints in Sneppen et al (2023) "On the Blackbody Spectrum of Kilonovae", ApJ, 1955). Spectral perturbation from the blackbody (e.g. Absorption below 390 nm, P Cygni at 760\,nm and 1 000 nm) follow from the strongest transitions of a light r-process atmosphere. These features are produced by abundant elements (r-process peak elements) positioned at leftmost part of the periodic table (due to their low partition functions - analogous to the Na, Mg, Ca lines in solar spectra or Ca lines in SNe). 
 
 
 
