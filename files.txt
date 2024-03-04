@@ -1,0 +1,263 @@
+	deleted:    Derivation_conv_Stuart.txt
+	deleted:    KN Geometry - Nature/.DS_Store
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/Binned_Epoch1_posterior_inclination&ratio-Final.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/Binned_Epoch1_posterior_inclination&ratio.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/Line_Assym_per_epoch-with_inclination.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/Plot_line-assym_with_inclination.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/Readme.txt
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB1-Aspherical_Line-Double_Integral.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB2-Aspherical_Line-Doubble_Integral-Copy1.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB2-Aspherical_Line-Doubble_Integral.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB3-Aspherical_Line-Double_Integral-Copy1.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB4-Aspherical_Line-Double_Integral.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB5-Aspherical_Line-Double_Integral.ipynb
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/pcygni_6.py
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/pcygni_8.py
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/pcygni_9.py
+	deleted:    KN Geometry - Nature/Aspherical_Line_Fit/pcygni_9_Spec_rel.py
+	deleted:    KN Geometry - Nature/Data/.DS_Store
+	deleted:    KN Geometry - Nature/Data/OB1/OB1_3_peaks_lambda_13000.pkl
+	deleted:    KN Geometry - Nature/Data/OB1/OB1_3_peaks_with_gaussian_3.zip
+	deleted:    KN Geometry - Nature/Data/OB1/OB1_lambda_3300_22500_woOccult_woPeak.pkl
+	deleted:    KN Geometry - Nature/Data/OB1/Readme.txt
+	deleted:    KN Geometry - Nature/Data/OB2/OB2_3_peaks_lambda_13000.pkl
+	deleted:    KN Geometry - Nature/Data/OB2/OB2_3_peaks_with_gaussian_1.zip
+	deleted:    KN Geometry - Nature/Data/OB2/OB2_lambda_3300_22500_woOccult_woPeak.pkl
+	deleted:    KN Geometry - Nature/Data/OB2/Readme.txt
+	deleted:    KN Geometry - Nature/Data/OB3/OB3_3_peaks_lambda_13000_3.pkl
+	deleted:    KN Geometry - Nature/Data/OB3/OB3_3_peaks_with_gaussian.zip
+	deleted:    KN Geometry - Nature/Data/OB3/OB3_lambda_3300_22500_woOccult_woPeak_2.pkl
+	deleted:    KN Geometry - Nature/Data/OB3/Readme.txt
+	deleted:    KN Geometry - Nature/Data/OB4/OB4_3_peaks_lambda_13000_1.pkl
+	deleted:    KN Geometry - Nature/Data/OB4/OB4_3_peaks_with_gaussian.zip
+	deleted:    KN Geometry - Nature/Data/OB4/OB4_lambda_3300_22500_woOccult_woPeak_1.pkl
+	deleted:    KN Geometry - Nature/Data/OB4/Readme.txt
+	deleted:    KN Geometry - Nature/Figures/.DS_Store
+	deleted:    KN Geometry - Nature/Figures/0. Lines For Darach.pdf
+	deleted:    KN Geometry - Nature/Figures/1st_Epoch.png
+	deleted:    KN Geometry - Nature/Figures/2nd_Epoch.png
+	deleted:    KN Geometry - Nature/Figures/3rd_Epoch.png
+	deleted:    KN Geometry - Nature/Figures/4th_Epoch.png
+	deleted:    KN Geometry - Nature/Figures/All_epochs_2.png
+	deleted:    KN Geometry - Nature/Figures/Fig ED1/Plot_spectra_and_fits.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig ED1/Readme.txt
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_Continuum.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy1.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy2.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy3.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Plot_line.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig1/Readme.txt
+	deleted:    KN Geometry - Nature/Figures/Fig3/Line_Assym_per_epoch.ipynb
+	deleted:    KN Geometry - Nature/Figures/Fig3/Readme.txt
+	deleted:    KN Geometry - Nature/Figures/Find_Lines_April.ipynb
+	deleted:    KN Geometry - Nature/Figures/Inclination-angle.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_Continuum.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_a_blackbody.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_line-assym.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_line-assym_with_inclination.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_line.ipynb
+	deleted:    KN Geometry - Nature/Figures/Plot_spectra_and_fits.ipynb
+	deleted:    KN Geometry - Nature/Figures/Readme.txt
+	deleted:    KN Geometry - Nature/Figures/Symmetry_vs_h0.ipynb
+	deleted:    KN Geometry - Nature/MCMC-chains/OB1_covariance_large.png
+	deleted:    KN Geometry - Nature/MCMC-chains/OB2_covariance_large.png
+	deleted:    KN Geometry - Nature/MCMC-chains/OB3_covariance_large.png
+	deleted:    KN Geometry - Nature/MCMC-chains/OB4_covariance_large.png
+	deleted:    KN Geometry - Nature/MCMC-chains/Readme.txt
+	deleted:    KN Geometry - Nature/MCMC-chains/emcee_fit_OB1.ipynb
+	deleted:    KN Geometry - Nature/MCMC-chains/emcee_fit_OB2.ipynb
+	deleted:    KN Geometry - Nature/MCMC-chains/emcee_fit_OB3.ipynb
+	deleted:    KN Geometry - Nature/MCMC-chains/emcee_fit_OB4.ipynb
+	deleted:    KN Geometry - Nature/readme.txt
+	deleted:    Make Init.ipynb
+	deleted:    Make_Selsing_SED.ipynb
+	deleted:    Multi-Temperature Blackbody/Conv_BB_Derivation.ipynb
+	deleted:    Multi-Temperature Blackbody/Determine_Cooling_powerindex_across_epochs.ipynb
+	deleted:    Multi-Temperature Blackbody/Readme.txt
+	deleted:    Multi-Temperature Blackbody/emcee_fit_OB1-convolved_bb-Copy1.ipynb
+	deleted:    Multi-Temperature Blackbody/emcee_fit_OB1-convolved_bb.ipynb
+	deleted:    Multi-Temperature Blackbody/emcee_fit_OB2-convolved_bb.ipynb
+	deleted:    Multi-Temperature Blackbody/func_beta_1.png
+	deleted:    P-Cygni.ipynb
+	deleted:    Py-Scripts (all)/Chi-square-comparison.ipynb
+	deleted:    Py-Scripts (all)/Compare-1vs3.ipynb
+	deleted:    Py-Scripts (all)/Convolved Blackbody-2.ipynb
+	deleted:    Py-Scripts (all)/Convolved Blackbody.ipynb
+	deleted:    Py-Scripts (all)/Data-Import-Fig1.ipynb
+	deleted:    Py-Scripts (all)/Data-Release-Tutorial.ipynb
+	deleted:    Py-Scripts (all)/EPM___Presubmission_Nature.pdf
+	deleted:    Py-Scripts (all)/Extinction_observed_spectra.ipynb
+	deleted:    Py-Scripts (all)/Find_Lines_April.ipynb
+	deleted:    Py-Scripts (all)/Fit-epoch1+2-concurrently.ipynb
+	deleted:    Py-Scripts (all)/GW170817_GWTC-1.hdf5
+	deleted:    Py-Scripts (all)/GWsGRB170817_OB2.json
+	deleted:    Py-Scripts (all)/Inclination-angle.ipynb
+	deleted:    Py-Scripts (all)/LIGO-estimates.ipynb
+	deleted:    Py-Scripts (all)/Line_Assym_per_epoch-with_inclination.ipynb
+	deleted:    Py-Scripts (all)/Line_Assym_per_epoch.ipynb
+	deleted:    Py-Scripts (all)/Make Init.ipynb
+	deleted:    Py-Scripts (all)/Make_Selsing_SED.ipynb
+	deleted:    Py-Scripts (all)/Model_variable_ellipticity.ipynb
+	deleted:    Py-Scripts (all)/P-Cygni.ipynb
+	deleted:    Py-Scripts (all)/Parsing_Files.ipynb
+	deleted:    Py-Scripts (all)/Period 3,4 - variability.ipynb
+	deleted:    Py-Scripts (all)/Physical_Size.ipynb
+	deleted:    Py-Scripts (all)/Readme.txt
+	deleted:    Py-Scripts (all)/Red_chi_2.ipynb
+	deleted:    Py-Scripts (all)/Red_chi_2_wl_less_8000.ipynb
+	deleted:    Py-Scripts (all)/Shadow.ipynb
+	deleted:    Py-Scripts (all)/Symmetry_vs_h0-h0-paper.ipynb
+	deleted:    Py-Scripts (all)/Symmetry_vs_h0.ipynb
+	deleted:    Py-Scripts (all)/The_relativistic_PCygni.ipynb
+	deleted:    Py-Scripts (all)/Untitled.ipynb
+	deleted:    Py-Scripts (all)/Untitled1.ipynb
+	deleted:    Py-Scripts (all)/doppler_incl_prolate.txt
+	deleted:    Py-Scripts (all)/doppler_incl_temp_054.txt
+	deleted:    Py-Scripts (all)/doppler_incl_temp_20.txt
+	deleted:    Py-Scripts (all)/doppler_incl_temp_40.txt
+	deleted:    Py-Scripts (all)/doppler_incl_temp_54.txt
+	deleted:    Py-Scripts (all)/doppler_wo_prolate.txt
+	deleted:    Py-Scripts (all)/doppler_wo_prolate_inv.txt
+	deleted:    Py-Scripts (all)/doppler_wo_prolate_use_to_the_fourth.txt
+	deleted:    Py-Scripts (all)/emcee - Selsing Distance.ipynb
+	deleted:    Py-Scripts (all)/emcee - posterior.ipynb
+	deleted:    Py-Scripts (all)/emcee - pretty plots - 750_H0.ipynb
+	deleted:    Py-Scripts (all)/emcee - pretty plots - filtered (2-10).ipynb
+	deleted:    Py-Scripts (all)/emcee - pretty plots - filtered.ipynb
+	deleted:    Py-Scripts (all)/emcee - pretty plots - inflated.ipynb
+	deleted:    Py-Scripts (all)/emcee - pretty plots.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-Aspherical_Line-Double_Integral.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-Aspherical_Line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-Cpp.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-convolved_bb.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-one-line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1-special_rel.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB1.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line-Doubble_Integral-Copy1.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line-Doubble_Integral.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-bb+pc+occult.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-convolved_bb.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-one-line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2-special_rel.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB2_New_PCygni.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB3-Aspherical_Line-Double_Integral.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB3-Aspherical_Line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB3-speciel-rel.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB3.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB3_New_PCygni.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4-Aspherical_Line-Double_Integral.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4-Aspherical_Line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4-speciel-rel.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4_New_PCygni.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB4_bb_pc-Copy1.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB5-Aspherical_Line-Double_Integral.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB5-Aspherical_Line.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB5.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_OB5_New_PCygni.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_SNR-test.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_SNR-test2-Copy1.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_SNR-test2.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_clean.ipynb
+	deleted:    Py-Scripts (all)/emcee_fit_rasmus_fixed.ipynb
+	deleted:    Py-Scripts (all)/emcee_implementation.py
+	deleted:    Py-Scripts (all)/epoch6.txt
+	deleted:    Py-Scripts (all)/epoch7.txt
+	deleted:    Py-Scripts (all)/epoch8.txt
+	deleted:    Py-Scripts (all)/epoch9.txt
+	deleted:    Py-Scripts (all)/fast_integrator.cpp
+	deleted:    Py-Scripts (all)/fast_integrator.so
+	deleted:    Py-Scripts (all)/figure_4.tar.gz
+	deleted:    Py-Scripts (all)/implementation.py
+	deleted:    Py-Scripts (all)/implementation_copy.py
+	deleted:    Py-Scripts (all)/pcygni_5.py
+	deleted:    Py-Scripts (all)/pcygni_5_Spec_Rel.py
+	deleted:    Py-Scripts (all)/pcygni_9.py
+	deleted:    Py-Scripts (all)/pcygni_9.py.ipynb
+	deleted:    Py-Scripts (all)/pcygni_9_Spec_rel.py
+	deleted:    Py-Scripts (all)/residual_calc.py
+	deleted:    README.md
+	deleted:    Spectral Series of AT2017gfo/.DS_Store
+	deleted:    Spectral Series of AT2017gfo/0.48-0.53 - MagE & LDSS/SSS17a-LDSS3-20170817_cal.flm
+	deleted:    Spectral Series of AT2017gfo/0.48-0.53 - MagE & LDSS/SSS17a-MagE-20170817_cal.flm
+	deleted:    Spectral Series of AT2017gfo/0.92 days - ANU/.DS_Store
+	deleted:    Spectral Series of AT2017gfo/0.92 days - ANU/anufit_spectrum_dered.dat
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/SALT_Crawford.txt
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new1_eg21.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new2_eg21.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new3h_eg21.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new4l_eg21.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_cd32fc.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_l4364fc.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_l6248fc.fits
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars.pdf
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars.png
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars_scaled.pdf
+	deleted:    Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars_scaled_2.png
+	deleted:    Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Nodding_First_two_carefull.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Nodding_Last_two_carefull.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Readme.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/.DS_Store
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/Readme.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch1.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch2.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch3.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch4.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch5.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/Readme.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch1.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch2.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch3.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch4.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch5.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57983.969_Phase+1.43d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57984.969_Phase+2.42d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57985.974_Phase+3.41d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57986.974_Phase+4.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57987.980_Phase+5.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57988.990_Phase+6.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57990.000_Phase+7.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57991.000_Phase+8.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57992.000_Phase+9.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57993.000_Phase+10.40d_deredz.dat
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/README.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/Spectra.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/xshooter-17gfo-spectra-final.pdf
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch1.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch2.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch3.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch4.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch5.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch6.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch7.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch8.txt
+	deleted:    Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch9.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day1.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day10.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day2.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day4.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day7.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day8.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day9.5-dered-sca.dat
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day1.5_SOAR_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day2.5_SOAR_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day3.5_SOAR_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day4.5_SOAR_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day5.5_HST_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day7.5_SOAR_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day8.5_IMACS_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day9.5_IMACS_restframe_dered.txt
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/HST Plotting.ipynb
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g102_0822.dat
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g102_0824.dat
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g102_0828.dat
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g141_0822.dat
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g141_0826.dat
+	deleted:    Spectral Series of AT2017gfo/4.9 days - HST/g141_0828.dat
+	deleted:    doppler_wo_prolate.txt
+	deleted:    pcygni_5.py
+	deleted:    pcygni_5_Spec_Rel.py
+	deleted:    pcygni_profile.py

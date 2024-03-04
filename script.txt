@@ -1,0 +1,4 @@
+while read -r line; do
+    git restore --staged "$line"
+    git restore "$line"
+done < cleaned_files_list.txt

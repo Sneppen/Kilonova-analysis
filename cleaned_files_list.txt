@@ -1,0 +1,263 @@
+Derivation_conv_Stuart.txt
+KN Geometry - Nature/.DS_Store
+KN Geometry - Nature/Aspherical_Line_Fit/Binned_Epoch1_posterior_inclination&ratio-Final.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/Binned_Epoch1_posterior_inclination&ratio.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/Line_Assym_per_epoch-with_inclination.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/Plot_line-assym_with_inclination.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/Readme.txt
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB1-Aspherical_Line-Double_Integral.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB2-Aspherical_Line-Doubble_Integral-Copy1.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB2-Aspherical_Line-Doubble_Integral.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB3-Aspherical_Line-Double_Integral-Copy1.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB4-Aspherical_Line-Double_Integral.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/emcee_fit_OB5-Aspherical_Line-Double_Integral.ipynb
+KN Geometry - Nature/Aspherical_Line_Fit/pcygni_6.py
+KN Geometry - Nature/Aspherical_Line_Fit/pcygni_8.py
+KN Geometry - Nature/Aspherical_Line_Fit/pcygni_9.py
+KN Geometry - Nature/Aspherical_Line_Fit/pcygni_9_Spec_rel.py
+KN Geometry - Nature/Data/.DS_Store
+KN Geometry - Nature/Data/OB1/OB1_3_peaks_lambda_13000.pkl
+KN Geometry - Nature/Data/OB1/OB1_3_peaks_with_gaussian_3.zip
+KN Geometry - Nature/Data/OB1/OB1_lambda_3300_22500_woOccult_woPeak.pkl
+KN Geometry - Nature/Data/OB1/Readme.txt
+KN Geometry - Nature/Data/OB2/OB2_3_peaks_lambda_13000.pkl
+KN Geometry - Nature/Data/OB2/OB2_3_peaks_with_gaussian_1.zip
+KN Geometry - Nature/Data/OB2/OB2_lambda_3300_22500_woOccult_woPeak.pkl
+KN Geometry - Nature/Data/OB2/Readme.txt
+KN Geometry - Nature/Data/OB3/OB3_3_peaks_lambda_13000_3.pkl
+KN Geometry - Nature/Data/OB3/OB3_3_peaks_with_gaussian.zip
+KN Geometry - Nature/Data/OB3/OB3_lambda_3300_22500_woOccult_woPeak_2.pkl
+KN Geometry - Nature/Data/OB3/Readme.txt
+KN Geometry - Nature/Data/OB4/OB4_3_peaks_lambda_13000_1.pkl
+KN Geometry - Nature/Data/OB4/OB4_3_peaks_with_gaussian.zip
+KN Geometry - Nature/Data/OB4/OB4_lambda_3300_22500_woOccult_woPeak_1.pkl
+KN Geometry - Nature/Data/OB4/Readme.txt
+KN Geometry - Nature/Figures/.DS_Store
+KN Geometry - Nature/Figures/0. Lines For Darach.pdf
+KN Geometry - Nature/Figures/1st_Epoch.png
+KN Geometry - Nature/Figures/2nd_Epoch.png
+KN Geometry - Nature/Figures/3rd_Epoch.png
+KN Geometry - Nature/Figures/4th_Epoch.png
+KN Geometry - Nature/Figures/All_epochs_2.png
+KN Geometry - Nature/Figures/Fig ED1/Plot_spectra_and_fits.ipynb
+KN Geometry - Nature/Figures/Fig ED1/Readme.txt
+KN Geometry - Nature/Figures/Fig1/Plot_Continuum.ipynb
+KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy1.ipynb
+KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy2.ipynb
+KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination-Copy3.ipynb
+KN Geometry - Nature/Figures/Fig1/Plot_line-assym_with_inclination.ipynb
+KN Geometry - Nature/Figures/Fig1/Plot_line.ipynb
+KN Geometry - Nature/Figures/Fig1/Readme.txt
+KN Geometry - Nature/Figures/Fig3/Line_Assym_per_epoch.ipynb
+KN Geometry - Nature/Figures/Fig3/Readme.txt
+KN Geometry - Nature/Figures/Find_Lines_April.ipynb
+KN Geometry - Nature/Figures/Inclination-angle.ipynb
+KN Geometry - Nature/Figures/Plot_Continuum.ipynb
+KN Geometry - Nature/Figures/Plot_a_blackbody.ipynb
+KN Geometry - Nature/Figures/Plot_line-assym.ipynb
+KN Geometry - Nature/Figures/Plot_line-assym_with_inclination.ipynb
+KN Geometry - Nature/Figures/Plot_line.ipynb
+KN Geometry - Nature/Figures/Plot_spectra_and_fits.ipynb
+KN Geometry - Nature/Figures/Readme.txt
+KN Geometry - Nature/Figures/Symmetry_vs_h0.ipynb
+KN Geometry - Nature/MCMC-chains/OB1_covariance_large.png
+KN Geometry - Nature/MCMC-chains/OB2_covariance_large.png
+KN Geometry - Nature/MCMC-chains/OB3_covariance_large.png
+KN Geometry - Nature/MCMC-chains/OB4_covariance_large.png
+KN Geometry - Nature/MCMC-chains/Readme.txt
+KN Geometry - Nature/MCMC-chains/emcee_fit_OB1.ipynb
+KN Geometry - Nature/MCMC-chains/emcee_fit_OB2.ipynb
+KN Geometry - Nature/MCMC-chains/emcee_fit_OB3.ipynb
+KN Geometry - Nature/MCMC-chains/emcee_fit_OB4.ipynb
+KN Geometry - Nature/readme.txt
+Make Init.ipynb
+Make_Selsing_SED.ipynb
+Multi-Temperature Blackbody/Conv_BB_Derivation.ipynb
+Multi-Temperature Blackbody/Determine_Cooling_powerindex_across_epochs.ipynb
+Multi-Temperature Blackbody/Readme.txt
+Multi-Temperature Blackbody/emcee_fit_OB1-convolved_bb-Copy1.ipynb
+Multi-Temperature Blackbody/emcee_fit_OB1-convolved_bb.ipynb
+Multi-Temperature Blackbody/emcee_fit_OB2-convolved_bb.ipynb
+Multi-Temperature Blackbody/func_beta_1.png
+P-Cygni.ipynb
+Py-Scripts (all)/Chi-square-comparison.ipynb
+Py-Scripts (all)/Compare-1vs3.ipynb
+Py-Scripts (all)/Convolved Blackbody-2.ipynb
+Py-Scripts (all)/Convolved Blackbody.ipynb
+Py-Scripts (all)/Data-Import-Fig1.ipynb
+Py-Scripts (all)/Data-Release-Tutorial.ipynb
+Py-Scripts (all)/EPM___Presubmission_Nature.pdf
+Py-Scripts (all)/Extinction_observed_spectra.ipynb
+Py-Scripts (all)/Find_Lines_April.ipynb
+Py-Scripts (all)/Fit-epoch1+2-concurrently.ipynb
+Py-Scripts (all)/GW170817_GWTC-1.hdf5
+Py-Scripts (all)/GWsGRB170817_OB2.json
+Py-Scripts (all)/Inclination-angle.ipynb
+Py-Scripts (all)/LIGO-estimates.ipynb
+Py-Scripts (all)/Line_Assym_per_epoch-with_inclination.ipynb
+Py-Scripts (all)/Line_Assym_per_epoch.ipynb
+Py-Scripts (all)/Make Init.ipynb
+Py-Scripts (all)/Make_Selsing_SED.ipynb
+Py-Scripts (all)/Model_variable_ellipticity.ipynb
+Py-Scripts (all)/P-Cygni.ipynb
+Py-Scripts (all)/Parsing_Files.ipynb
+Py-Scripts (all)/Period 3,4 - variability.ipynb
+Py-Scripts (all)/Physical_Size.ipynb
+Py-Scripts (all)/Readme.txt
+Py-Scripts (all)/Red_chi_2.ipynb
+Py-Scripts (all)/Red_chi_2_wl_less_8000.ipynb
+Py-Scripts (all)/Shadow.ipynb
+Py-Scripts (all)/Symmetry_vs_h0-h0-paper.ipynb
+Py-Scripts (all)/Symmetry_vs_h0.ipynb
+Py-Scripts (all)/The_relativistic_PCygni.ipynb
+Py-Scripts (all)/Untitled.ipynb
+Py-Scripts (all)/Untitled1.ipynb
+Py-Scripts (all)/doppler_incl_prolate.txt
+Py-Scripts (all)/doppler_incl_temp_054.txt
+Py-Scripts (all)/doppler_incl_temp_20.txt
+Py-Scripts (all)/doppler_incl_temp_40.txt
+Py-Scripts (all)/doppler_incl_temp_54.txt
+Py-Scripts (all)/doppler_wo_prolate.txt
+Py-Scripts (all)/doppler_wo_prolate_inv.txt
+Py-Scripts (all)/doppler_wo_prolate_use_to_the_fourth.txt
+Py-Scripts (all)/emcee - Selsing Distance.ipynb
+Py-Scripts (all)/emcee - posterior.ipynb
+Py-Scripts (all)/emcee - pretty plots - 750_H0.ipynb
+Py-Scripts (all)/emcee - pretty plots - filtered (2-10).ipynb
+Py-Scripts (all)/emcee - pretty plots - filtered.ipynb
+Py-Scripts (all)/emcee - pretty plots - inflated.ipynb
+Py-Scripts (all)/emcee - pretty plots.ipynb
+Py-Scripts (all)/emcee_fit_OB1-Aspherical_Line-Double_Integral.ipynb
+Py-Scripts (all)/emcee_fit_OB1-Aspherical_Line.ipynb
+Py-Scripts (all)/emcee_fit_OB1-Cpp.ipynb
+Py-Scripts (all)/emcee_fit_OB1-convolved_bb.ipynb
+Py-Scripts (all)/emcee_fit_OB1-one-line.ipynb
+Py-Scripts (all)/emcee_fit_OB1-special_rel.ipynb
+Py-Scripts (all)/emcee_fit_OB1.ipynb
+Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line-Doubble_Integral-Copy1.ipynb
+Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line-Doubble_Integral.ipynb
+Py-Scripts (all)/emcee_fit_OB2-Aspherical_Line.ipynb
+Py-Scripts (all)/emcee_fit_OB2-bb+pc+occult.ipynb
+Py-Scripts (all)/emcee_fit_OB2-convolved_bb.ipynb
+Py-Scripts (all)/emcee_fit_OB2-one-line.ipynb
+Py-Scripts (all)/emcee_fit_OB2-special_rel.ipynb
+Py-Scripts (all)/emcee_fit_OB2.ipynb
+Py-Scripts (all)/emcee_fit_OB2_New_PCygni.ipynb
+Py-Scripts (all)/emcee_fit_OB3-Aspherical_Line-Double_Integral.ipynb
+Py-Scripts (all)/emcee_fit_OB3-Aspherical_Line.ipynb
+Py-Scripts (all)/emcee_fit_OB3-speciel-rel.ipynb
+Py-Scripts (all)/emcee_fit_OB3.ipynb
+Py-Scripts (all)/emcee_fit_OB3_New_PCygni.ipynb
+Py-Scripts (all)/emcee_fit_OB4-Aspherical_Line-Double_Integral.ipynb
+Py-Scripts (all)/emcee_fit_OB4-Aspherical_Line.ipynb
+Py-Scripts (all)/emcee_fit_OB4-speciel-rel.ipynb
+Py-Scripts (all)/emcee_fit_OB4.ipynb
+Py-Scripts (all)/emcee_fit_OB4_New_PCygni.ipynb
+Py-Scripts (all)/emcee_fit_OB4_bb_pc-Copy1.ipynb
+Py-Scripts (all)/emcee_fit_OB5-Aspherical_Line-Double_Integral.ipynb
+Py-Scripts (all)/emcee_fit_OB5-Aspherical_Line.ipynb
+Py-Scripts (all)/emcee_fit_OB5.ipynb
+Py-Scripts (all)/emcee_fit_OB5_New_PCygni.ipynb
+Py-Scripts (all)/emcee_fit_SNR-test.ipynb
+Py-Scripts (all)/emcee_fit_SNR-test2-Copy1.ipynb
+Py-Scripts (all)/emcee_fit_SNR-test2.ipynb
+Py-Scripts (all)/emcee_fit_clean.ipynb
+Py-Scripts (all)/emcee_fit_rasmus_fixed.ipynb
+Py-Scripts (all)/emcee_implementation.py
+Py-Scripts (all)/epoch6.txt
+Py-Scripts (all)/epoch7.txt
+Py-Scripts (all)/epoch8.txt
+Py-Scripts (all)/epoch9.txt
+Py-Scripts (all)/fast_integrator.cpp
+Py-Scripts (all)/fast_integrator.so
+Py-Scripts (all)/figure_4.tar.gz
+Py-Scripts (all)/implementation.py
+Py-Scripts (all)/implementation_copy.py
+Py-Scripts (all)/pcygni_5.py
+Py-Scripts (all)/pcygni_5_Spec_Rel.py
+Py-Scripts (all)/pcygni_9.py
+Py-Scripts (all)/pcygni_9.py.ipynb
+Py-Scripts (all)/pcygni_9_Spec_rel.py
+Py-Scripts (all)/residual_calc.py
+README.md
+Spectral Series of AT2017gfo/.DS_Store
+Spectral Series of AT2017gfo/0.48-0.53 - MagE & LDSS/SSS17a-LDSS3-20170817_cal.flm
+Spectral Series of AT2017gfo/0.48-0.53 - MagE & LDSS/SSS17a-MagE-20170817_cal.flm
+Spectral Series of AT2017gfo/0.92 days - ANU/.DS_Store
+Spectral Series of AT2017gfo/0.92 days - ANU/anufit_spectrum_dered.dat
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/SALT_Crawford.txt
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new1_eg21.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new2_eg21.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new3h_eg21.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_new4l_eg21.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_cd32fc.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_l4364fc.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/ligo_oma_l6248fc.fits
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars.pdf
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars.png
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars_scaled.pdf
+Spectral Series of AT2017gfo/1.17 days - SALT spectra/standard_stars_scaled_2.png
+Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Nodding_First_two_carefull.txt
+Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Nodding_Last_two_carefull.txt
+Spectral Series of AT2017gfo/1.43-1.46 days - X-shooter (Sub-epoch spectra)/Readme.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/.DS_Store
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/Readme.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch1.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch2.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch3.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch4.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra/epoch5.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/Readme.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch1.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch2.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch3.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch4.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/Spectra_Selsing/epoch5.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57983.969_Phase+1.43d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57984.969_Phase+2.42d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57985.974_Phase+3.41d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57986.974_Phase+4.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57987.980_Phase+5.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57988.990_Phase+6.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57990.000_Phase+7.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57991.000_Phase+8.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57992.000_Phase+9.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/AT2017gfo_ENGRAVE_v1.0_XSHOOTER_MJD-57993.000_Phase+10.40d_deredz.dat
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/README.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/Spectra.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/dereddened+deredshifted_spectra/xshooter-17gfo-spectra-final.pdf
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch1.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch2.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch3.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch4.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch5.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch6.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch7.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch8.txt
+Spectral Series of AT2017gfo/1.43-9.4 - X-shooter/epoch9.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day1.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day10.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day2.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day4.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day7.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day8.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817-gemini-day9.5-dered-sca.dat
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day1.5_SOAR_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day2.5_SOAR_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day3.5_SOAR_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day4.5_SOAR_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day5.5_HST_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day7.5_SOAR_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day8.5_IMACS_restframe_dered.txt
+Spectral Series of AT2017gfo/1.47-10.5 days - Gemini + SOAR/gw170817_day9.5_IMACS_restframe_dered.txt
+Spectral Series of AT2017gfo/4.9 days - HST/HST Plotting.ipynb
+Spectral Series of AT2017gfo/4.9 days - HST/g102_0822.dat
+Spectral Series of AT2017gfo/4.9 days - HST/g102_0824.dat
+Spectral Series of AT2017gfo/4.9 days - HST/g102_0828.dat
+Spectral Series of AT2017gfo/4.9 days - HST/g141_0822.dat
+Spectral Series of AT2017gfo/4.9 days - HST/g141_0826.dat
+Spectral Series of AT2017gfo/4.9 days - HST/g141_0828.dat
+doppler_wo_prolate.txt
+pcygni_5.py
+pcygni_5_Spec_Rel.py
+pcygni_profile.py
