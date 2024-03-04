@@ -1,3 +1,5 @@
+# KN geometrical analysis
+
 Folder for relevant files for KN geometry paper; 
 Sneppen et al (2023), "Spherical symmetry in the kilonova AT2017gfo/GW170817", Nature, 614.
 
@@ -12,7 +14,7 @@ T, Blackbody Temperature
 
 𝑣_𝑒, 𝜏: Velocity stratification and optical depth of line 𝜏(𝑣)=𝜏𝑒^(−(𝑣_𝑟𝑒𝑓−𝑣)/𝑣_𝑒 )
 
-𝑂_𝑜𝑐𝑐: sets asymmetry between absorption and emission. 
+𝑂_𝑜𝑐𝑐: sets asymmetry between absorption and emission. Later research has explained this as being well-explained as due to reverberation effects in the ejecta. 
 
 ratio_vel: eccentricity of photosphere, if fitting an ellipsoidal photosphere
 
