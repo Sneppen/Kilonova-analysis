@@ -1,4 +1,4 @@
-## Spectral series data-sets
+Spectral series data-sets
 
 This folder contains spectral data, which is deliberated in the paper Sneppen et al. (2024), "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from \rprocess elements"
 
