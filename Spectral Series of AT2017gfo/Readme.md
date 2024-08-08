@@ -1,8 +1,8 @@
 # Spectral series data-sets
 
-This folder contains spectral data, which is deliberated in the paper Sneppen et al. (2024), "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from r-process elements" (see Fig. "Unified_spectral_series.png" for illustration of the spectral evolution of features). We request that any use of the data whether compiled or re-reduced for this analysis includes appropriate citation to the original papers. 
+This folder contains spectral data, which is deliberated in the paper Sneppen et al. (2024), "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from r-process elements" (see Fig. "Unified_spectral_series.png" for illustration of the spectral evolution of features). We request that any use of the data whether compiled or re-reduced for this analysis includes appropriate citation to the original papers. From all telescopes, deredshifted and dereddened version of spectra are provided. 
 
-The Spectra were obtained chronologically as follows (with time post-merger measured in the rest-frame of the host-galaxy):
+The spectra were obtained chronologically as follows (with time post-merger measured in the rest-frame of the host-galaxy):
 - 0.48-0.53 days: Magellan (MagE and LDSS), see Shappee et al (2017) "Early spectra of the gravitational wave source GW170817: Evolution of a neutron star merger".
 - 0.92 days: ANU 2.3m WiFeS, see Andreoni et al (2017) "Follow Up of GW170817 and Its Electromagnetic Counterpart by Australian-Led Observing Programmes".
 - 1.17 days: SALT, see Buckley et al (2018), "A comparison between SALT/SAAO observations and kilonova models for AT 2017gfo: the first electromagnetic counterpart of a gravitational wave transient - GW170817". Re-reductions using various standard stars (as deliberated in Sneppen et al. (2024)  "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from \rprocess elements") are provided in folder "1.17 days - SALT spectra". 
