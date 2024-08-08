@@ -1,6 +1,6 @@
 # Spectral series data-sets
 
-This folder contains spectral data, which is deliberated in the paper Sneppen et al. (2024), "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from r-process elements" (see Fig. "Unified_spectral_series.png" for illustration of the spectral evolution of features). We request that any use of the data whether compiled or re-reduced for this analysis includes appropriate citation to the original papers. From all telescopes, deredshifted and dereddened spectral reductions are provided. 
+This folder contains spectral data, which is deliberated in the paper Sneppen et al. (2024), "Unified spectral series of the kilonova AT2017gfo:  Emergence and evolution of spectral features from r-process elements" (see Fig. "Unified_spectral_series.png" for illustration of the spectral evolution of features). We request that any use of the data whether compiled or re-reduced for this analysis includes appropriate citation to the original papers. From all telescopes, deredshifted and dereddened spectra are provided. 
 
 The spectra were obtained chronologically as follows (with time post-merger measured in the rest-frame of the host-galaxy):
 - 0.48-0.53 days: Magellan (MagE and LDSS), see Shappee et al (2017) "Early spectra of the gravitational wave source GW170817: Evolution of a neutron star merger".
